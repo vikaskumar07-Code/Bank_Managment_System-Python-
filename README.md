@@ -90,7 +90,7 @@ If `data.json` is empty, initialize it with:
 ---
 
 ## 📸 Screenshots
-
+![Bank UI](https://github.com/vikaskumar07-Code/Bank_Managment_System-Python-/raw/main/UI%20Design.png)
 
 ---
 
